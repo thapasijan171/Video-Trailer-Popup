@@ -38,7 +38,7 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/video-trailer-popup.git
+   git clone https://github.com/thapasijan171/video-trailer-popup.git
 
 
 ### Usage
